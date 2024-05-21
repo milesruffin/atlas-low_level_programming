@@ -3,9 +3,7 @@
 /**
  * main - void
  *
- * Description: Program that prints sizeof various data types
- *
- * @: no parameters
+ * Description: Program that prints the  size of various data types
  *
  * Return: Always 0 (Success)
  */
