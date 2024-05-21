@@ -22,7 +22,7 @@ int main(void)
 
 
 
-1-main.c
+1-main.c;
 
 #include "main.h"
 
