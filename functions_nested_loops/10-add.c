@@ -1,17 +1,18 @@
+#include <stdio.h>
+#include <math.h>
+#include <ctype.h>
 #include "main.h"
-
 
 /**
  * add - Adds two values
- * @n1: integer one
- * @n2: integer two
- * Return: Integer value
+ * Description: function that adds two ints and returns result
+ * @x: int
+ * @y: int
+ * Return: Always 0 (success)
  */
 
-int add(int n1, int n2)
+int add(int x, int y)
 
 {
-
-	return (n1 + n2);
-
+	return (x + y);
 }
