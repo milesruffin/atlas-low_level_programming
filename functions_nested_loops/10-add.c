@@ -1,5 +1,7 @@
+#include <stdio.h>
+#include <math.h>
+#include <ctype.h>
 #include "main.h"
-
 
 /**
  * add - Adds two values
