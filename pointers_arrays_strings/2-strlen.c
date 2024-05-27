@@ -3,7 +3,7 @@
  * _strlen - function name
  * Description: function that counts string length
  * @s: function parameter
- * return: the length of the string
+ * Return: the length of the string
  */
 
 int _strlen(char *s)
